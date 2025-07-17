@@ -1,0 +1,40 @@
+# API Keys - KEEP SECRET! 🔐
+api_keys.txt
+*.key
+*.secret
+
+# Data folder - Contains large files and datasets
+data/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
